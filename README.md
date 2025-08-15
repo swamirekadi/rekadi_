@@ -1,2 +1,2 @@
 # rekadi_
-interested in embedded systems and vlci
+interested in embedded systems and vlsi
